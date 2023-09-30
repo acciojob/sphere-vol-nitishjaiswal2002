@@ -14,7 +14,7 @@ document.getElementById("volume").value = "Invalid input. Please enter a valid n
 calculate.toFixed(2);
                 // Display the calculated volume in the volume field
                 document.getElementById("volume").value =calculate;
-			   var  decimal= calculate.toFixed(2);
+			   var  decimal1= calculate.toFixed(2);
             }
 } 
 // it works yes yes yes ok sir ok ok
